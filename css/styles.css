@@ -58,6 +58,7 @@ ul, ol {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    
 }
 .a .logo-header {
     margin-right: 76px;
@@ -71,6 +72,8 @@ ul, ol {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    margin-right: 76px;
+
 }
 .a .logo-footer {
     display: inline-block;
